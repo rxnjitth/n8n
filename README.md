@@ -59,7 +59,7 @@ Additional information about the license model can be found in the [docs](https:
 
 ## Contributing
 
-Found a bug 🐛 or have a feature idea ✨? Check our [Contributing Guide](https://github.com/n8n-io/n8n/blob/master/CONTRIBUTING.md) for a setup guide & best practices.
+Found a bug 🐛 or have a feat ure idea ✨? Check our [Contributing Guide](https://github.com/n8n-io/n8n/blob/master/CONTRIBUTING.md) for a setup guide & best practices.
 
 ## Join the Team
 
