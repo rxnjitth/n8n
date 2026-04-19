@@ -22,6 +22,7 @@ Try n8n instantly with [npx](https://docs.n8n.io/hosting/installation/npm/) (req
 npx n8n
 ```
 
+
 Or deploy with [Docker](https://docs.n8n.io/hosting/installation/docker/):
 
 ```
